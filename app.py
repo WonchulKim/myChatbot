@@ -5,4 +5,5 @@ app = Flask(__name__)
 def hello_world():
     print('test')
     print('new test')
+    print('kk test')
     return 'hello'
